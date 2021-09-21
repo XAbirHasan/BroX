@@ -15,9 +15,12 @@ Year: late 2020 (still under development)
 <!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "child care || web project") -->
 
 ## Screen shot
-<img src="demo/1.png" alt="Home" width="400"/>  <img src="demo/2.png" alt="Home" width="400"/>
-<img src="demo/3.png" alt="Home" width="400"/>  <img src="demo/4.png" alt="Home" width="400"/>
-<img src="demo/5.png" alt="Home" width="400"/>  <img src="demo/6.png" alt="Home" width="400"/>
+<img src="demo/1.png" alt="Home" width="600"/>  
+<img src="demo/2.png" alt="Home" width="600"/>
+<img src="demo/3.png" alt="Home" width="600"/>  
+<img src="demo/4.png" alt="Home" width="600"/>
+<img src="demo/5.png" alt="Home" width="600"/>  
+<img src="demo/6.png" alt="Home" width="600"/>
 
 
 ## Authors
