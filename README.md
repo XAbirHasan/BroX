@@ -7,7 +7,7 @@
 Name: BroX <br>
 Programming Language: C# <br>
 Platform: PC game <br>
-Project No: update me <br>
+Project No: 25 <br>
 Year: late 2020 (still under development)
 
 
