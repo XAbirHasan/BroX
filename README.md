@@ -7,12 +7,12 @@
 Name: BroX <br>
 Programming Language: C# <br>
 Platform: PC game <br>
-Project No: 25 <br>
+Project No: 24 <br>
 Year: late 2020 (still under development)
 
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "child care || web project") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/k9MkIq6ad-4/0.jpg)](http://www.youtube.com/watch?v=k9MkIq6ad-4 "BroX || web project")
 
 ## Screen shot
 <img src="demo/1.png" alt="Home" width="600"/>  
