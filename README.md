@@ -12,7 +12,7 @@ Year: late 2020 (still under development)
 
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/k9MkIq6ad-4/0.jpg)](http://www.youtube.com/watch?v=k9MkIq6ad-4 "BroX || web project")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/k9MkIq6ad-4/0.jpg)](http://www.youtube.com/watch?v=k9MkIq6ad-4 "BroX || blender project")
 
 ## Screen shot
 <img src="demo/1.png" alt="Home" width="600"/>  
